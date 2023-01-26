@@ -1,0 +1,23 @@
+{
+  "name": "7.2.1",
+  "version": "1.0.0",
+  "description": "zadanie 1",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pokrzw/7.2.1.git"
+  },
+  "author": "Pokrzw",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pokrzw/7.2.1/issues"
+  },
+  "homepage": "https://github.com/Pokrzw/7.2.1#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^4.13.0"
+  }
+}
